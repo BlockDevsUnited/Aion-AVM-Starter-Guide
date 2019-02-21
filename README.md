@@ -16,9 +16,11 @@ The three parts to this tutorial are:
 
 # Quick Start
 
+- Install Prereqs https://docs.aion.network/docs/maven-and-aion4j-installation#section-windows
 - Install Aiwa Chrome extension
+- turn off Metamask extension
 - Clone this tutorial
- `Git Clone https://github.com/BlockDevsUnited/Aion-AVM-Starter-Guide.git`
+ `git clone https://github.com/BlockDevsUnited/Aion-AVM-Starter-Guide.git`
 - cd to Example-Dapp
 - serve the webpage (optional)
   `python -m SimpleHTTPServer 8000`
