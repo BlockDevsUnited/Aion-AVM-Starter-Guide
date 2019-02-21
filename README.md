@@ -24,6 +24,7 @@ The three parts to this tutorial are:
   `python -m SimpleHTTPServer 8000`
 - replace account address and account private key with your address and private key in index.js
 - try the buttons!
+- inspect the console to see the results!
 
 # Step By Step Guide
 
