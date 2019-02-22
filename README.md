@@ -19,6 +19,7 @@ The three parts to this tutorial are:
 - Install Prereqs https://docs.aion.network/docs/maven-and-aion4j-installation#section-windows
 - Install Aiwa Chrome extension
 - Connect Aiwa to the AVM network, by selecting Custom [network], and connecting to this node: http://138.91.123.106, Port 8545
+- Get AVM testnet AION from https://faucets.blockxlabs.com/
 - turn off Metamask extension
 - Clone this tutorial
  `git clone https://github.com/BlockDevsUnited/Aion-AVM-Starter-Guide.git`
