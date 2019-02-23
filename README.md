@@ -84,7 +84,7 @@ Here you will:
 
 <!--<a name="setup_build"></a>-->
 
-### 1. Build Maven
+### 1. Build Maven (Windows users only need this extra step for the avm.jar file)
 Maven is a build tool that will help us deploy Java programs to AVM blockchain.
 ```
 git clone https://github.com/satran004/aion4j-maven-plugin.git
@@ -103,6 +103,8 @@ Run integration tests
 ``` 
 ./mvnw integration-test
 ```
+
+copy your avm.jar file into your lib folder of your project in the next step to avoid mvn initialize error.
 
 ### 2. Create AVM java project
 The fastest way to create a AVM project is using a maven archetype - [avm-archetype](https://github.com/satran004/avm-archetype).
