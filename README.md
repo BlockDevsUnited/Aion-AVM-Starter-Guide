@@ -24,8 +24,7 @@ The three parts to this tutorial are:
 - Clone this tutorial
  `git clone https://github.com/BlockDevsUnited/Aion-AVM-Starter-Guide.git`
 - cd to Example-Dapp
-- serve the webpage (optional)
-  `python -m SimpleHTTPServer 8000`
+- open index.html to view the website
 - replace account address and account private key with your address and private key in index.js
 - try the buttons!
 - inspect the console to see the results!
@@ -52,10 +51,7 @@ The three parts to this tutorial are:
 <button onclick="getString()">get string</button>
 </body>
 ```
-- In your terminal, cd to the directory where index.html is saved, and serve the webpage
-`python -m SimpleHTTPServer 8000`
-
-- or if you don't have python installed, navigate to the directory and double-click index.html to open in the browser
+- navigate to the directory and double-click index.html to open in the browser
 
 - That's it, you're done!
 
