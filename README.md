@@ -455,7 +455,7 @@ A similar transaction flow happens when you want to update the string field in t
 Use the transaction hash from the above step to get the details.
 
 ```
-$> mvn aion4j:get-receipt -Premote
+$> mvn aion4j:get-receipt -DtxHash=<tx_hash> -Premote
 ```
 
 You should see a json output.
