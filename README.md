@@ -368,10 +368,7 @@ A wallet is a type of public key. Blockchain uses public/private key cryptograph
 
 
 #### connect AIWA to AVM Testnet
-Go to the network connection setting (dropdown where is says Mainnet or Mastery) and connect to our seed node we created custom for the tutorial.
-
-URL: http://138.91.123.106
-PORT: 8545 
+Go to the network connection setting (dropdown where is says Mainnet or Mastery) and connect to our nodesmith endpoint we created custom for the tutorial.
 
 Now your wallet is connected to the AVM testnet.
 
